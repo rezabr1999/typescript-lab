@@ -10,6 +10,7 @@ let anotherPerson: { name: string; age?: number } = {
     name: "Alice"
 };
 
+
 // Interfaces
 // Think of these as blueprints for objects, defining the structure they should have.
 interface Person {
